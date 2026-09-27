@@ -4,7 +4,7 @@ Clasament care combină **calitatea / renumele** hotelului cu **cât de nou este
 deschiderii sau al ultimei renovări majore). Hotelurile noi sau renovate recent urcă în
 clasament; cele vechi, chiar dacă sunt celebre, coboară dacă n-au mai fost renovate.
 
-> Prețurile sunt orientative, **per cameră (2 adulți) / noapte, all inclusive**, adunate
+> **Atenție:** prețurile sunt orientative și mai degrabă **minime** (per cameră, 2 adulți / noapte, all inclusive). Comparatoarele afișează des cele mai mici tarife găsite, iar vara, la agenții, prețul real e de obicei mai mare. Sunt adunate
 > din Booking, Kayak, Momondo, HotelsCombined și ghiduri de turism (sept. 2026). Variază mult
 > cu sezonul: iulie–august e cel mai scump, noiembrie–aprilie cel mai ieftin.
 
@@ -33,7 +33,7 @@ clasament; cele vechi, chiar dacă sunt celebre, coboară dacă n-au mai fost re
 
 | Hotel | Deschis | Ultima renovare | Preț / noapte (aprox.) | Unde s-ar situa |
 |-------|---------|-----------------|------------------------|-----------------|
-| **Limak Arcadia Sport Resort** | 1995 (primul hotel Limak) | 2020, plus restaurantele și bufetul refăcute recent | **~90 – 250 $** (de la ~45–90 $ în extrasezon) | Pe locul ~12–15: cea mai veche clădire dintre hotelurile comparate, dar cu raport calitate-preț foarte bun, bun pentru sport și familii, cu plajă și pini seculari |
+| **Limak Arcadia Sport Resort** | 1995 (primul hotel Limak) | 2020 (parțial), plus restaurantele și bufetul refăcute recent | **vara (iul.–aug.): de la ~250 € în sus**, la tarif întreg, fără early booking; ofertele de 45–90 $ de pe comparatoare sunt excepții din extrasezon | În afara topului: clădirea e din 1995, renovările au fost parțiale, iar partea de „sport” e slabă (teren de golf mic și prost întreținut). Are totuși plajă și pini seculari |
 
 ## De urmărit
 
