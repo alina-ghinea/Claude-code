@@ -29,6 +29,12 @@ clasament; cele vechi, chiar dacă sunt celebre, coboară dacă n-au mai fost re
 - **Hotel nou, preț mediu:** Cullinan Belek sau Rixos Park Belek.
 - **Familii cu copii:** Rixos Park / Rixos Premium (Land of Legends inclus).
 
+## Alte hoteluri, în afara topului
+
+| Hotel | Deschis | Ultima renovare | Preț / noapte (aprox.) | Unde s-ar situa |
+|-------|---------|-----------------|------------------------|-----------------|
+| **Limak Arcadia Sport Resort** | 1995 (primul hotel Limak) | 2020, plus restaurantele și bufetul refăcute recent | **~90 – 250 $** (de la ~45–90 $ în extrasezon) | Pe locul ~12–15: cea mai veche clădire dintre hotelurile comparate, dar cu raport calitate-preț foarte bun, bun pentru sport și familii, cu plajă și pini seculari |
+
 ## De urmărit
 
 - **Ethno Belek** (deschis în februarie 2024) și **TUI BLUE Maviss** (deschis în aprilie
@@ -48,4 +54,6 @@ clasament; cele vechi, chiar dacă sunt celebre, coboară dacă n-au mai fost re
 - [HotelsCombined – Kempinski The Dome](https://www.hotelscombined.com/Hotel/Kempinski_Hotel_The_Dome.htm)
 - [OWL Tourism – Cullinan Belek](https://owltourism.com/EN/cullinan-belek-long-stay-packages)
 - [HotelsCombined – Rixos Belek](https://www.hotelscombined.com/Place/Rixos_Hotels-Belek-Hotels.786.41281.hotel.ksp)
+- [Limak Hotels – Arcadia](https://www.limakhotels.com/arcadia)
+- [Momondo – Limak Arcadia](https://www.momondo.com/hotels/belek/Limak-Arcadia-Golf-Sport-Resort.mhd323485.ksp)
 - [Tripadvisor – Sy Luxury Belek](https://www.tripadvisor.com/Hotel_Review-g7380333-d32974936-Reviews-SY_Luxury_Belek-Kadriye_Belek_Serik_District_Turkish_Mediterranean_Coast.html)
